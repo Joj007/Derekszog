@@ -1,0 +1,15 @@
+fieldset{
+    border-radius: 20px;
+    border: gray 3px groove;
+    box-shadow: 10px 10px 0 orange;
+    background-color: darksalmon;
+}
+
+legend{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+hr{
+    border: gray 1px soild;
+}
